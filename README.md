@@ -5,4 +5,4 @@ This repository contains files pertaining to the analysis of possible factors as
 
 * Lannette Rangel, Masters of Environmental Management, 2020, Nicholas School of the Environment, Duke University
 
-*Pierre Mishra, Masters of Environmental Management, 2021, Nicholas School of the Environment, Duke University
+* Pierre Mishra, Masters of Environmental Management, 2021, Nicholas School of the Environment, Duke University
