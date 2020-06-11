@@ -13,6 +13,9 @@ Lung cancer is the most commonly diagnosed and fatal cancer around the world. In
 ## Keywords
 lung cancer, air pollution, carbon dioxide, coal, smoking, gross domestic product, multiple linear regression
 
+## Database Information
+
+
 
 ## Folder structure and file formats
 * Code - Contains .R file for the analysis
@@ -20,6 +23,8 @@ lung cancer, air pollution, carbon dioxide, coal, smoking, gross domestic produc
   + Raw - Contains unedited csv
   + Processed - Contains edited csv file
 * Output - Contains .pdf file for presenting results of the analysis
+
+## Metadata
 
 ## Scripts and codes
 
