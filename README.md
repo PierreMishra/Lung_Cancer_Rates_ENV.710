@@ -17,7 +17,7 @@ lung cancer, air pollution, carbon dioxide, coal, smoking, gross domestic produc
 ## Folder structure and file formats
 * Code - Contains .R file for the analysis
 * Data - Contains raw and processed data sets in comma separated values format
-  + Raw - Contains unedited csv and shapefiles
+  + Raw - Contains unedited csv
   + Processed - Contains edited csv file
 * Output - Contains .pdf file for presenting results of the analysis
 
