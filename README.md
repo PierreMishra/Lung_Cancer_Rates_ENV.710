@@ -9,3 +9,14 @@ Lung cancer is the most commonly diagnosed and fatal cancer around the world. In
 * Lannette Rangel, Masters of Environmental Management, 2020, Nicholas School of the Environment, Duke University
 
 * Pierre Mishra, Masters of Environmental Management, 2021, Nicholas School of the Environment, Duke University
+
+## Keywords
+lung cancer, air pollution, carbon dioxide, coal, smoking, gross domestic product, multiple linear regression
+
+
+## Folder structure
+* Code - Contains .R file for the analysis
+* Data - Contains raw and processed data sets in comma separated values and shapefile formats/
+  + Raw - Contains unedited csv and shapefiles
+  + Processed - Contains edited csv file
+* Output - Contains .pdf file for presenting results of the analysis
