@@ -14,7 +14,7 @@ Lung cancer is the most commonly diagnosed and fatal cancer around the world. In
 lung cancer, air pollution, carbon dioxide, coal, smoking, gross domestic product, multiple linear regression
 
 
-## Folder structure
+## Folder structure and file formats
 * Code - Contains .R file for the analysis
 * Data - Contains raw and processed data sets in comma separated values and shapefile formats/
   + Raw - Contains unedited csv and shapefiles
