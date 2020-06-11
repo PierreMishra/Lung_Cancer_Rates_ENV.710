@@ -89,5 +89,5 @@ final <- merge (final, urban_pop, by.x='iso_code', by.y='iso_code')
 colnames(final) <- tolower(colnames(final))
 
 # Export final data in csv
-write_csv(final, "final.csv")
+write_csv(final, "Data/Processed/final.csv")
 ```
