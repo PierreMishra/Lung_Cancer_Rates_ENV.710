@@ -31,10 +31,6 @@ We sourced our data from a number of agencies and organizations. All of the data
   + Processed - Contains edited csv file
 * Output - Contains .pdf file for presenting results of the analysis
 
-## Metadata
-
-
-
 ## Scripts and codes
 
 The following code was used to make the processed data set 'final.csv'.
