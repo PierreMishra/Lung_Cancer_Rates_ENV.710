@@ -1,3 +1,5 @@
+#### Completed: December 2019
+
 # Global Lung Cancer Rates
 This repository contains files pertaining to the analysis of possible socio-economic and environmental factors associated to global lung cancer incidences. The R script can be found at location Code/Final Project_Lannette_Pierre.R. The final report comprising the results of the analysis can be found at Output/final_report.pdf. 
 
