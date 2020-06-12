@@ -17,7 +17,12 @@ lung cancer, air pollution, carbon dioxide, coal, smoking, gross domestic produc
 
 ## Database Information
 
+We sourced our data from a number of agencies and organizations. All of the datasets were publicly available. 
 
+* Lung cancer incidence rates, smoking prevalence and solid fuel use data was retrieved from The Cancer Atlas, which is produced by the American Cancer Society, the International Agency for Research on Cancer, and the Union for International Cancer Control.
+* Human Development Index (HDI) data was sourced from the RAND corporation as a part of its Food-Energy-Water Security Index.
+* Environmental Performance Index (EPI) scores were retrieved from Yale University.
+* Coal usage data was sourced from International Energy Agency. 
 
 ## Folder structure and file formats
 * Code - Contains .R file for the analysis
@@ -27,6 +32,8 @@ lung cancer, air pollution, carbon dioxide, coal, smoking, gross domestic produc
 * Output - Contains .pdf file for presenting results of the analysis
 
 ## Metadata
+
+
 
 ## Scripts and codes
 
